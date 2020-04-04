@@ -16,6 +16,7 @@ Release History:
 
 Version 1.0.1
 Fixed Problem 4 last answer. Now displays 2 decimal places.
+Changed to double data type to eliminate errors due to low precision from floats.
 April 4, 2020
 
 Version 1.0.0 (initial release)
