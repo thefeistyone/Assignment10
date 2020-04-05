@@ -10,6 +10,7 @@ Windows:
 4) double click Assignment10.exe
 
 Mac:
+
 3) navigate to Assignment10MacOSX > application.macosx > Assignment10.app > Contents > Java
 4) double click Assignment10.jar
 
