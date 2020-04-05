@@ -7,7 +7,7 @@ Installation:
 Windows:
 3) navigate to Assignment10Win64 > application.windows64
 	   (or Assignment10Win32 > application.windows32
-4) double click Assignment10.exe
+4) double click Assignment10.exe\n
 Mac:
 coming soon
 5) ACE ENGG 202!!
