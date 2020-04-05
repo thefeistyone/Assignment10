@@ -10,7 +10,8 @@ Windows:
 4) double click Assignment10.exe
 
 Mac:
-coming soon
+3) navigate to Assignment10MacOSX > application.macosx > Assignment10.app > Contents > Java
+4) double click Assignment10.jar
 
 5) ACE ENGG 202!!
 
